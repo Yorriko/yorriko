@@ -6,9 +6,9 @@
     <title>Ucapan Ulang Tahun</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: "Comic Sans MS", cursive;
             text-align: center;
-            background-color: #f0f8ff;
+            background-color: #98fb98; /* Hijau Mint */
             margin: 0;
             padding: 20px;
         }
@@ -37,7 +37,7 @@
         <p>Hari ini adalah hari yang spesial karena kita merayakan ulang tahunmu yang ke-23. Semoga semua impian dan harapanmu tercapai. Terima kasih telah menjadi kakak yang selalu mendukung dan menginspirasi. Kamu adalah contoh yang luar biasa dalam hidupku.</p>
         <p>Semoga tahun ini membawa banyak kebahagiaan, kesehatan, dan kesuksesan. Tetaplah menjadi pribadi yang kuat dan penuh kasih seperti yang selama ini aku kenal. Aku sangat bersyukur memiliki kakak sepertimu.</p>
         <p>Selamat merayakan hari istimewamu!</p>
-        <p>Dengan cinta,<br>[Nama Anda]</p>
+        <p>Dengan cinta,<br>[Azis]</p>
         <img src="foto_kakak.jpg" alt="Foto Kakak">
         <img src="foto_kue.jpg" alt="Foto Kue Ulang Tahun">
     </div>
